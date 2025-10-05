@@ -195,7 +195,7 @@ int main() {
                 if (anyFound) {
                     printf("lottery combination: %d\n", finalnumber);
                 } else {
-                    printf("allah ghaleb no gold for you.\n");
+                    printf("no gold for you.\n");
                 }
                 break;
             }
@@ -211,3 +211,4 @@ int main() {
 
     return 0;
 }
+
