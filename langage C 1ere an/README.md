@@ -1,6 +1,3 @@
-bonjour, 
-je vous presente les exercices du TP de module algorithmiques et strictures de donnees
-les exercies 1-5 sont des applications de cours (fifo, lifo, logique, records, etc...)
-et programme de pirates c'etait l'examen de TP de 2eme semestre, un programme basé sur l'utilisation des listes chainées pour construire un jeux, merci pour votre attention.
+concernant le programme pirates-argh,  Ce programme met en œuvre une liste chainée permettant de gerer des elements structurés (les coffres de pirate), une liste chainée triée permettant de stocker, modifier et afficher des structures contenant un identifiant et un message.  et des fonctionalités comme l'ajout d'éléments avec insertion triée par identifiant, suppression d’un élément, la modification d’un message et l'ffichage de la liste,   PLUS: l'extraction du premier nombre d’un message uniquement si la longueur du message est un nombre premier  EXEMPLE : "chi12ab" --> extraction : 12.  
 
-
+ 
